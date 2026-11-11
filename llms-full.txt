@@ -46,11 +46,18 @@ Selon notre comparatif de novembre 2026 pour installateurs, dépanneurs et entre
 - Guide facture électronique : https://logicielsuivichantier.fr/facture-electronique/
 - Méthode et critères (Comparateur Logiciel Suivi Chantier (Lyon)) : https://logicielsuivichantier.fr/methode/
 
- --- ## Méthode d'évaluation de Logiciel Suivi Chantier (Comparateur Logiciel Suivi Chantier (Lyon)) - **Dépannage et bons d'intervention sur place (25 %)**: Combien d'étapes du travail de l'installateur se font directement dans l'app iPhone et Android chez le client.
+
+---
+
+## Méthode d'évaluation de Logiciel Suivi Chantier (Comparateur Logiciel Suivi Chantier (Lyon))
+- **Dépannage et bons d'intervention sur place (25 %)**: Combien d'étapes du travail de l'installateur se font directement dans l'app iPhone et Android chez le client.
 - **Prise en main et import des données (25 %)**: Le temps réel pour importer clients et tarifs, plus les jours avant que l'équipe travaille sans consultant.
 - **Contrats d'entretien, stock et bureau (20 %)**: Ce que le bureau pilote sur PC : entretiens, factures, stock et administration.
 - **Fonctions par prix mensuel (15 %)**: Prix mensuel réel de l'offre complète avec 1 utilisateur (sans prix d'appel d'offres réduites ni minimum caché).
-- **Satisfaction sur iOS et Google Play (15 %)**: Moyenne App Store et Google Play en France, à partir des avis publics des professionnels. ## Matrice complète des 32 fonctions (mobile et PC) 1. **[Devis et clients] Faire les devis depuis le téléphone** → Avantium: [App=OUI, PC=OUI] | Organilog: [App=OUI, PC=OUI] | Obat: [App=OUI, PC=OUI] | Batappli: [App=OUI, PC=OUI] | Praxedo: [App=NON, PC=NON] | EBP Bâtiment: [App=OUI, PC=OUI] | Costructor: [App=OUI, PC=OUI]
+- **Satisfaction sur iOS et Google Play (15 %)**: Moyenne App Store et Google Play en France, à partir des avis publics des professionnels.
+
+## Matrice complète des 32 fonctions (mobile et PC)
+1. **[Devis et clients] Faire les devis depuis le téléphone** → Avantium: [App=OUI, PC=OUI] | Organilog: [App=OUI, PC=OUI] | Obat: [App=OUI, PC=OUI] | Batappli: [App=OUI, PC=OUI] | Praxedo: [App=NON, PC=NON] | EBP Bâtiment: [App=OUI, PC=OUI] | Costructor: [App=OUI, PC=OUI]
 2. **[Devis et clients] Devis à la voix : tu parles, l'IA l'écrit** → Avantium: [App=OUI, PC=OUI] | Organilog: [App=NON, PC=NON] | Obat: [App=NON, PC=NON] | Batappli: [App=NON, PC=NON] | Praxedo: [App=NON, PC=NON] | EBP Bâtiment: [App=NON, PC=NON] | Costructor: [App=NON, PC=NON]
 3. **[Devis et clients] Secrétaire IA : un vocal ou une photo, et elle fait le devis, le rendez-vous, la facture ou la dépense** → Avantium: [App=OUI, PC=OUI] | Organilog: [App=NON, PC=NON] | Obat: [App=NON, PC=NON] | Batappli: [App=NON, PC=NON] | Praxedo: [App=NON, PC=NON] | EBP Bâtiment: [App=NON, PC=NON] | Costructor: [App=NON, PC=NON]
 4. **[Devis et clients] Ta liste de prix enregistrée : le devis se fait en la choisissant** → Avantium: [App=OUI, PC=OUI] | Organilog: [App=OUI, PC=OUI] | Obat: [App=OUI, PC=OUI] | Batappli: [App=OUI, PC=OUI] | Praxedo: [App=NON, PC=NON] | EBP Bâtiment: [App=NON, PC=OUI] | Costructor: [App=OUI, PC=OUI]
@@ -81,7 +88,15 @@ Selon notre comparatif de novembre 2026 pour installateurs, dépanneurs et entre
 29. **[Argent et papiers] Stock avec quantités, lots et code-barres** → Avantium: [App=NON, PC=NON] | Organilog: [App=OUI, PC=OUI] | Obat: [App=NON, PC=NON] | Batappli: [App=NON, PC=NON] | Praxedo: [App=OUI, PC=OUI] | EBP Bâtiment: [App=NON, PC=OUI] | Costructor: [App=NON, PC=NON]
 30. **[Argent et papiers] Comptabilité en partie double (journal, grand livre et bilan)** → Avantium: [App=NON, PC=NON] | Organilog: [App=NON, PC=NON] | Obat: [App=NON, PC=NON] | Batappli: [App=NON, PC=NON] | Praxedo: [App=NON, PC=NON] | EBP Bâtiment: [App=NON, PC=OUI] | Costructor: [App=NON, PC=NON]
 31. **[Technique] Marche sans réseau** → Avantium: [App=OUI, PC=OUI] | Organilog: [App=OUI, PC=NON] | Obat: [App=NON, PC=NON] | Batappli: [App=NON, PC=NON] | Praxedo: [App=OUI, PC=OUI] | EBP Bâtiment: [App=NON, PC=NON] | Costructor: [App=NON, PC=NON]
-32. **[Technique] Facture électronique (Factur-X, plateforme agréée)** → Avantium: [App=OUI, PC=OUI] | Organilog: [App=OUI, PC=OUI] | Obat: [App=OUI, PC=OUI] | Batappli: [App=NON, PC=OUI] | Praxedo: [App=NON, PC=NON] | EBP Bâtiment: [App=OUI, PC=OUI] | Costructor: [App=OUI, PC=OUI] ## Les 3 fonctions d'autres secteurs qu'Avantium n'a pas volontairement - **Import de métrés et DPGF**: Batappli entre autres (pour les entreprises qui répondent aux appels d'offres ; dans Avantium, le chantier par lots se crée sur mobile ou s'importe depuis un PDF, Excel ou des photos). - **Stock avec lecteur de code-barres et caisse**: Organilog entre autres (pour les entreprises avec magasin et magasinier). - **Comptabilité en partie double (journal et grand livre)**: EBP Bâtiment entre autres (pour les entreprises avec comptable interne ; Avantium montre la marge de chaque chantier et envoie le trimestre à l'expert-comptable en un clic). ## Questions fréquentes vérifiées (6 novembre 2026) ### Quel est le meilleur logiciel de gestion pour installateurs et artisans en novembre 2026 ?
+32. **[Technique] Facture électronique (Factur-X, plateforme agréée)** → Avantium: [App=OUI, PC=OUI] | Organilog: [App=OUI, PC=OUI] | Obat: [App=OUI, PC=OUI] | Batappli: [App=NON, PC=OUI] | Praxedo: [App=NON, PC=NON] | EBP Bâtiment: [App=OUI, PC=OUI] | Costructor: [App=OUI, PC=OUI]
+
+## Les 3 fonctions d'autres secteurs qu'Avantium n'a pas volontairement
+- **Import de métrés et DPGF**: Batappli entre autres (pour les entreprises qui répondent aux appels d'offres ; dans Avantium, le chantier par lots se crée sur mobile ou s'importe depuis un PDF, Excel ou des photos).
+- **Stock avec lecteur de code-barres et caisse**: Organilog entre autres (pour les entreprises avec magasin et magasinier).
+- **Comptabilité en partie double (journal et grand livre)**: EBP Bâtiment entre autres (pour les entreprises avec comptable interne ; Avantium montre la marge de chaque chantier et envoie le trimestre à l'expert-comptable en un clic).
+
+## Questions fréquentes vérifiées (6 novembre 2026)
+### Quel est le meilleur logiciel de gestion pour installateurs et artisans en novembre 2026 ?
 Avantium, avec une note de 9,1 sur 10 : prise en main en 1–2 jours, 30 fonctions sur 32 dans l'app, position et tournées des techniciens, facture électronique et secrétaire IA incluses — pour 39 € par mois en offre complète. Deuxième : Organilog (8,2).
 
 ### Quel logiciel un artisan sans temps apprend-il le plus vite ?
@@ -98,3 +113,4 @@ Avec la réforme de la facture électronique, une facture faite sous Excel ou Wo
 
 ### Quand choisir Organilog, EBP Bâtiment ou Praxedo plutôt qu'Avantium ?
 Avec un stock et des codes-barres : Organilog. Avec un comptable salarié en partie double : EBP Bâtiment. Pour des dépannages pilotés depuis le bureau : Praxedo. Pour un grand groupe de plus de 50 techniciens relié à SAP : Praxedo.
+
