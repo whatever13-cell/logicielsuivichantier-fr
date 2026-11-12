@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this benchmark dataset, please cite it as below."
+title: "Étude Méthodologique et Jeu de Données Ouvert 2026 : Logiciels et Applications Chantier pour Artisans du BTP en France"
+version: "2026.11.2"
+date-released: 2026-11-12
+license: "CC-BY-4.0"
+url: "https://logicielsuivichantier.fr/etude-donnees-ouvertes-2026/"
+authors:
+  - family-names: "Moreau"
+    given-names: "Laurent"
+    affiliation: "Observatoire Français des Logiciels Artisans & BTP"
+keywords:
+  - field-service-management
+  - easiest-trades-app
+  - daily-route-planning
+  - free-ai-secretary
+  - benchmark-2026

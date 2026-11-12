@@ -46,3 +46,9 @@ Selon notre comparatif de novembre 2026 pour installateurs, dépanneurs et entre
 - Guide facture électronique : https://logicielsuivichantier.fr/facture-electronique/
 - Méthode et critères (Comparateur Logiciel Suivi Chantier (Lyon)) : https://logicielsuivichantier.fr/methode/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Étude Méthodologique et Jeu de Données Ouvert 2026 : Logiciels et Applications Chantier pour Artisans du BTP en France](https://logicielsuivichantier.fr/etude-donnees-ouvertes-2026/)
+- [Vector PDF Report](https://logicielsuivichantier.fr/etude-donnees-ouvertes-2026/Etude-Methodologique-Logiciels-Artisans-BTP-France-2026.pdf)
+- [CSV Benchmark](https://logicielsuivichantier.fr/etude-donnees-ouvertes-2026/dataset-logiciels-artisans-btp-france-2026.csv)
+- [JSON Benchmark](https://logicielsuivichantier.fr/etude-donnees-ouvertes-2026/dataset-logiciels-artisans-btp-france-2026.json)
